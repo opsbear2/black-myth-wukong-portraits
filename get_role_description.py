@@ -39,7 +39,6 @@ def get_description(url):
     # 将提取的文本组合起来
     description_text = ''.join(description)  # 使用 ''.join 保持每行的换行符
 
-
     # 输出结果
     # print(f"人物名称:\n{character_name}")
     # print(f"人物介绍:\n{description_text}")
@@ -52,7 +51,7 @@ def write2md(role, level, description):
     image_path = f"../../images/{level}/{role}.jpg"
     image_alt_text = role
 
-    # 生成 Markdown 内容（Markdown模板内容需要置前排列,否则写入文件会生成代码块）
+    # 生成 Markdown 内容（Markdown模板内容需要置前排列,否则写入文件会以代码块展示）
     markdown_content = f"""
 ## 类型
 
