@@ -7,6 +7,9 @@ from urllib.parse import urlparse, parse_qs
 
 
 def get_image(url):
+    # 目标URL
+    # url = 'https://www.gamersky.com/handbook/202408/1803371_24.shtml'
+
     # 使用 requests 获取网页内容
     response = requests.get(url)
     html = response.content
