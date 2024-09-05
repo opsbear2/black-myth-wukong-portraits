@@ -77,24 +77,25 @@ def write2md(role, level, description):
 
 
 if __name__ == '__main__':
-    description = get_description('https://www.gamersky.com/handbook/202408/1803371_24.shtml')
-    # description = 'f;adjfafja'
-    role = '白衣秀士'
-    level = '人物'
-    write2md(role, level, description)
+    # description = get_description('https://www.gamersky.com/handbook/202408/1803371_24.shtml')
+    # role = '白衣秀士'
+    # level = '人物'
+    # write2md(role, level, description)
 
-    # roleinfo_config = "roleinfo.json"
-    # with open (roleinfo_config, 'r', encoding='utf-8') as file:
-    #     roleinfo = file.read()
-    # roleinfo_dict = json.loads(roleinfo)
+    roleinfo_config = "roleinfo.json"
+    with open (roleinfo_config, 'r', encoding='utf-8') as file:
+        roleinfo = file.read()
+    roleinfo_dict = json.loads(roleinfo)
 
-    # for level, items in roleinfo_dict.items():
-    #     print(f"类型: {level}")
-    #     for item in items:
-    #         role = item['role']
-    #         url= item['url']
+    for level, items in roleinfo_dict.items():
+        print(f"类型: {level}")
+        for item in items:
+            role = item['role']
+            url= item['url']
+            description = get_description(url)
+            write2md(role, level, description)
 
-    #         # print(role,url,image_url)
-    #         # print(f"  角色: {item['role']}")
-    #         # print(f"  URL: {item['url']}")
-    #     print()  # 空行用于分隔不同类型
+            # print(role,url,image_url)
+            # print(f"  角色: {item['role']}")
+            # print(f"  URL: {item['url']}")
+        print()  # 空行用于分隔不同类型
