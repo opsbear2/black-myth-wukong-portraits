@@ -1,0 +1,822 @@
+{
+    "人物": [
+        {
+            "role": "白衣秀士",
+            "url": "https://www.gamersky.com/handbook/202408/1803395.shtml"
+        },
+        {
+            "role": "黑风山土地",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_2.shtml"
+        },
+        {
+            "role": "无头僧",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_3.shtml"
+        },
+        {
+            "role": "灵吉菩萨",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_4.shtml"
+        },
+        {
+            "role": "小西天土地",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_5.shtml"
+        },
+        {
+            "role": "申猴",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_6.shtml"
+        },
+        {
+            "role": "戌狗",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_7.shtml"
+        },
+        {
+            "role": "石中人",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_8.shtml"
+        },
+        {
+            "role": "黄袍员外",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_9.shtml"
+        },
+        {
+            "role": "龟将",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_10.shtml"
+        },
+        {
+            "role": "灵狐",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_11.shtml"
+        },
+        {
+            "role": "翠笠武师",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_12.shtml"
+        },
+        {
+            "role": "小张太子",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_13.shtml"
+        },
+        {
+            "role": "猪八戒",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_14.shtml"
+        },
+        {
+            "role": "黑手道人",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_15.shtml"
+        },
+        {
+            "role": "鹤仙人",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_16.shtml"
+        },
+        {
+            "role": "红依",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_17.shtml"
+        },
+        {
+            "role": "火焰山土地",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_18.shtml"
+        },
+        {
+            "role": "马天霸",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_19.shtml"
+        },
+        {
+            "role": "皓斧力士",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_20.shtml"
+        },
+        {
+            "role": "萍萍",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_21.shtml"
+        },
+        {
+            "role": "铁扇公主",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_22.shtml"
+        },
+        {
+            "role": "牛魔王",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_23.shtml"
+        },
+        {
+            "role": "王灵官",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_24.shtml"
+        },
+        {
+            "role": "通臂猿猴",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_25.shtml"
+        },
+        {
+            "role": "寅虎",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_26.shtml"
+        },
+        {
+            "role": "辰龙",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_27.shtml"
+        },
+        {
+            "role": "老猴子",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_28.shtml"
+        },
+        {
+            "role": "弥勒",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_29.shtml"
+        },
+        {
+            "role": "二郎显圣真君",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_30.shtml"
+        },
+        {
+            "role": "大圣残躯",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_31.shtml"
+        },
+        {
+            "role": "袁守诚",
+            "url": "https://www.gamersky.com/handbook/202408/1803395_32.shtml"
+        }
+    ],
+    "小妖": [
+        {
+            "role": "狼斥候",
+            "url": "https://www.gamersky.com/handbook/202408/1803306.shtml"
+        },
+        {
+            "role": "狼剑客",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_2.shtml"
+        },
+        {
+            "role": "狼力士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_3.shtml"
+        },
+        {
+            "role": "狼弓手",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_4.shtml"
+        },
+        {
+            "role": "狼校卫",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_5.shtml"
+        },
+        {
+            "role": "狼侍卫",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_6.shtml"
+        },
+        {
+            "role": "狼刺客",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_7.shtml"
+        },
+        {
+            "role": "山匪头子",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_8.shtml"
+        },
+        {
+            "role": "骨嶙峋",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_9.shtml"
+        },
+        {
+            "role": "蛇巡司",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_10.shtml"
+        },
+        {
+            "role": "小呱呱",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_11.shtml"
+        },
+        {
+            "role": "小菌君",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_12.shtml"
+        },
+        {
+            "role": "小人参精",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_13.shtml"
+        },
+        {
+            "role": "鸦香客",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_14.shtml"
+        },
+        {
+            "role": "鼠司空",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_15.shtml"
+        },
+        {
+            "role": "鼠校卫",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_16.shtml"
+        },
+        {
+            "role": "鼠弩手",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_17.shtml"
+        },
+        {
+            "role": "鼠都尉",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_18.shtml"
+        },
+        {
+            "role": "鼬侍郎",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_19.shtml"
+        },
+        {
+            "role": "狸侍长",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_20.shtml"
+        },
+        {
+            "role": "小灵芝精",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_21.shtml"
+        },
+        {
+            "role": "石磷磷",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_22.shtml"
+        },
+        {
+            "role": "石双双",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_23.shtml"
+        },
+        {
+            "role": "石苍苍",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_24.shtml"
+        },
+        {
+            "role": "骨灵精",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_25.shtml"
+        },
+        {
+            "role": "骨悚然",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_26.shtml"
+        },
+        {
+            "role": "干尸",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_27.shtml"
+        },
+        {
+            "role": "疾蝠",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_28.shtml"
+        },
+        {
+            "role": "青蝠",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_29.shtml"
+        },
+        {
+            "role": "雪僵尸",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_30.shtml"
+        },
+        {
+            "role": "掌灯狱使",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_31.shtml"
+        },
+        {
+            "role": "穿云鬼",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_32.shtml"
+        },
+        {
+            "role": "狼护法",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_33.shtml"
+        },
+        {
+            "role": "冻饿鬼",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_34.shtml"
+        },
+        {
+            "role": "戒刀僧",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_35.shtml"
+        },
+        {
+            "role": "夜叉奴",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_36.shtml"
+        },
+        {
+            "role": "巡山鬼",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_37.shtml"
+        },
+        {
+            "role": "提炉僧",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_38.shtml"
+        },
+        {
+            "role": "双刀僧",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_39.shtml"
+        },
+        {
+            "role": "支应僧",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_40.shtml"
+        },
+        {
+            "role": "监院僧",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_41.shtml"
+        },
+        {
+            "role": "泥塑金刚",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_42.shtml"
+        },
+        {
+            "role": "焦面鬼王",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_43.shtml"
+        },
+        {
+            "role": "隼居士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_44.shtml"
+        },
+        {
+            "role": "赤发鬼",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_45.shtml"
+        },
+        {
+            "role": "地莲精",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_46.shtml"
+        },
+        {
+            "role": "雷长老",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_47.shtml"
+        },
+        {
+            "role": "巫山小妖",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_48.shtml"
+        },
+        {
+            "role": "幽灯鬼",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_49.shtml"
+        },
+        {
+            "role": "蜢虫精",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_50.shtml"
+        },
+        {
+            "role": "蜻蜓精",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_51.shtml"
+        },
+        {
+            "role": "儡蜱士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_52.shtml"
+        },
+        {
+            "role": "傀蛛士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_53.shtml"
+        },
+        {
+            "role": "虫校尉",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_54.shtml"
+        },
+        {
+            "role": "鼠禁卫",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_55.shtml"
+        },
+        {
+            "role": "迎客僧",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_56.shtml"
+        },
+        {
+            "role": "鳖宝",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_57.shtml"
+        },
+        {
+            "role": "蚂蜂精",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_58.shtml"
+        },
+        {
+            "role": "石蛛",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_59.shtml"
+        },
+        {
+            "role": "琴螂幼虫",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_60.shtml"
+        },
+        {
+            "role": "利爪茧",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_61.shtml"
+        },
+        {
+            "role": "蝎太子",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_62.shtml"
+        },
+        {
+            "role": "御剑道士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_63.shtml"
+        },
+        {
+            "role": "拂尘道士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_64.shtml"
+        },
+        {
+            "role": "执杖道士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_65.shtml"
+        },
+        {
+            "role": "蛇司药",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_66.shtml"
+        },
+        {
+            "role": "蛇捕头",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_67.shtml"
+        },
+        {
+            "role": "虫羽士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_68.shtml"
+        },
+        {
+            "role": "青冉冉",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_69.shtml"
+        },
+        {
+            "role": "阴兵·力士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_70.shtml"
+        },
+        {
+            "role": "阴兵·弓手",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_71.shtml"
+        },
+        {
+            "role": "阴兵·火牛",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_72.shtml"
+        },
+        {
+            "role": "阴兵·焦尸",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_73.shtml"
+        },
+        {
+            "role": "阴兵·黑脸鬼",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_74.shtml"
+        },
+        {
+            "role": "焰蝠",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_75.shtml"
+        },
+        {
+            "role": "牛侍长",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_76.shtml"
+        },
+        {
+            "role": "牛校卫",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_77.shtml"
+        },
+        {
+            "role": "牛力士",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_78.shtml"
+        },
+        {
+            "role": "火烈烈",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_79.shtml"
+        },
+        {
+            "role": "炎赫赫",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_80.shtml"
+        },
+        {
+            "role": "火灵童子",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_81.shtml"
+        },
+        {
+            "role": "行什",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_82.shtml"
+        },
+        {
+            "role": "地罗刹",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_83.shtml"
+        },
+        {
+            "role": "海罗刹",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_84.shtml"
+        },
+        {
+            "role": "火长老",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_85.shtml"
+        },
+        {
+            "role": "牯都督",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_86.shtml"
+        },
+        {
+            "role": "鹰天兵",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_87.shtml"
+        },
+        {
+            "role": "犬天兵",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_88.shtml"
+        },
+        {
+            "role": "豺天兵",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_89.shtml"
+        },
+        {
+            "role": "天将",
+            "url": "https://www.gamersky.com/handbook/202408/1803306_90.shtml"
+        }
+    ],
+    "头目": [
+        {
+            "role": "牯护院",
+            "url": "https://www.gamersky.com/handbook/202408/1803328.shtml"
+        },
+        {
+            "role": "广智",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_2.shtml"
+        },
+        {
+            "role": "广谋",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_3.shtml"
+        },
+        {
+            "role": "波里个浪",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_4.shtml"
+        },
+        {
+            "role": "地狼",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_5.shtml"
+        },
+        {
+            "role": "沙国王父子",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_6.shtml"
+        },
+        {
+            "role": "沙大郎",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_7.shtml"
+        },
+        {
+            "role": "百目真人",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_8.shtml"
+        },
+        {
+            "role": "浪里个波",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_9.shtml"
+        },
+        {
+            "role": "赤尻马猴",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_10.shtml"
+        },
+        {
+            "role": "魔将·莲眼",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_11.shtml"
+        },
+        {
+            "role": "不白",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_12.shtml"
+        },
+        {
+            "role": "海上僧",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_13.shtml"
+        },
+        {
+            "role": "石母",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_14.shtml"
+        },
+        {
+            "role": "虎伥",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_15.shtml"
+        },
+        {
+            "role": "疯虎",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_16.shtml"
+        },
+        {
+            "role": "魔将·妄相",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_17.shtml"
+        },
+        {
+            "role": "魔将·劫波",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_18.shtml"
+        },
+        {
+            "role": "无量蝠",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_19.shtml"
+        },
+        {
+            "role": "浪里个浪",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_20.shtml"
+        },
+        {
+            "role": "老人参精",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_21.shtml"
+        },
+        {
+            "role": "不净",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_22.shtml"
+        },
+        {
+            "role": "不能",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_23.shtml"
+        },
+        {
+            "role": "不空",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_24.shtml"
+        },
+        {
+            "role": "六妹",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_25.shtml"
+        },
+        {
+            "role": "五妹",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_26.shtml"
+        },
+        {
+            "role": "四姐",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_27.shtml"
+        },
+        {
+            "role": "三姐",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_28.shtml"
+        },
+        {
+            "role": "二姐",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_29.shtml"
+        },
+        {
+            "role": "大姐",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_30.shtml"
+        },
+        {
+            "role": "琴螂仙",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_31.shtml"
+        },
+        {
+            "role": "百足虫",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_32.shtml"
+        },
+        {
+            "role": "右手虫",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_33.shtml"
+        },
+        {
+            "role": "波里个波",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_34.shtml"
+        },
+        {
+            "role": "虫总兵",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_35.shtml"
+        },
+        {
+            "role": "靡道人",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_36.shtml"
+        },
+        {
+            "role": "五行战车",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_37.shtml"
+        },
+        {
+            "role": "石父",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_38.shtml"
+        },
+        {
+            "role": "急如火快如风",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_39.shtml"
+        },
+        {
+            "role": "云里雾雾里云",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_40.shtml"
+        },
+        {
+            "role": "兴烘掀掀烘兴",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_41.shtml"
+        },
+        {
+            "role": "燧统领",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_42.shtml"
+        },
+        {
+            "role": "燧先锋",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_43.shtml"
+        },
+        {
+            "role": "火灵元母",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_44.shtml"
+        },
+        {
+            "role": "波浪浪",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_45.shtml"
+        },
+        {
+            "role": "石子",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_46.shtml"
+        },
+        {
+            "role": "毒统领",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_47.shtml"
+        },
+        {
+            "role": "水木兽",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_48.shtml"
+        },
+        {
+            "role": "跳浪蛟",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_49.shtml"
+        },
+        {
+            "role": "浪波波",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_50.shtml"
+        },
+        {
+            "role": "金甲犀",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_51.shtml"
+        },
+        {
+            "role": "步云鹿",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_52.shtml"
+        },
+        {
+            "role": "凤翅将军",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_53.shtml"
+        },
+        {
+            "role": "碧臂螂",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_54.shtml"
+        },
+        {
+            "role": "虎先锋",
+            "url": "https://www.gamersky.com/handbook/202408/1803328_55.shtml"
+        }
+    ],
+    "妖王": [
+        {
+            "role": "灵虚子",
+            "url": "https://www.gamersky.com/handbook/202408/1803371.shtml"
+        },
+        {
+            "role": "黑风大王",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_2.shtml"
+        },
+        {
+            "role": "黑熊精",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_3.shtml"
+        },
+        {
+            "role": "金池长老",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_4.shtml"
+        },
+        {
+            "role": "虎先锋",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_5.shtml"
+        },
+        {
+            "role": "石先锋",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_6.shtml"
+        },
+        {
+            "role": "黄风大圣",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_7.shtml"
+        },
+        {
+            "role": "亢金龙",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_8.shtml"
+        },
+        {
+            "role": "亢金星君",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_9.shtml"
+        },
+        {
+            "role": "魔将·妙音",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_10.shtml"
+        },
+        {
+            "role": "青背龙",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_11.shtml"
+        },
+        {
+            "role": "黄眉",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_12.shtml"
+        },
+        {
+            "role": "赤髯龙",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_13.shtml"
+        },
+        {
+            "role": "石敢当",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_14.shtml"
+        },
+        {
+            "role": "小骊龙",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_15.shtml"
+        },
+        {
+            "role": "蝜蝂",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_16.shtml"
+        },
+        {
+            "role": "紫蛛儿",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_17.shtml"
+        },
+        {
+            "role": "小黄龙",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_18.shtml"
+        },
+        {
+            "role": "毒敌大王",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_19.shtml"
+        },
+        {
+            "role": "晦月魔君",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_20.shtml"
+        },
+        {
+            "role": "百眼魔君",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_21.shtml"
+        },
+        {
+            "role": "阴阳鱼",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_22.shtml"
+        },
+        {
+            "role": "璧水金睛兽",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_23.shtml"
+        },
+        {
+            "role": "红孩儿",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_24.shtml"
+        },
+        {
+            "role": "夜叉王",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_25.shtml"
+        },
+        {
+            "role": "大石敢当",
+            "url": "https://www.gamersky.com/handbook/202408/1803371_26.shtml"
+        }
+    ]
+}
